@@ -26,7 +26,6 @@
 #include <Servo.h>
 #include <LRemote.h>
 #include <SoftwareSerial.h>
-#include <string.h>
 
 #define Right_Wheel_A   12
 #define Right_Wheel_B   10
