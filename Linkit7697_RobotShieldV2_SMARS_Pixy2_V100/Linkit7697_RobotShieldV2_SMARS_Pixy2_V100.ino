@@ -171,13 +171,12 @@ void setup() {
   Serial.println("]");
 
   String tank_name;
-  tank_name = "TANK" + tank_address.substring(0, 2) + tank_address.substring(3, 5);
+  tank_name = "PIXY" + tank_address.substring(0, 2) + tank_address.substring(3, 5);
 
   // Setup the Remote Control's Name
   LRemote.setName(tank_name);
 
   // Setup the Remote Control's UI canvas
-  LRemote.setName("SMARS");
   LRemote.setOrientation(RC_PORTRAIT);
   LRemote.setGrid(3, 6);
 
@@ -398,7 +397,7 @@ void loop() {
     Motor_Break();
   }
 
-  while (millis() < 10000)
+  while (millis() < 5000)
   {
     Pixy_scan();
     area = width * height;
