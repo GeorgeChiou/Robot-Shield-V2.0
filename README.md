@@ -38,10 +38,9 @@ Screws :
 Self-tapping screw M2 x 8mm x 2 PCS
 Self-tapping screw M2 x 6mm x 12 PCS
 
-GitHub Code & SCH :
-https://github.com/GeorgeChiou/Robot-Shield-V2.0
 
-Assembly Instruction :
-https://youtu.be/rpaQaJ1GmJE
-https://youtu.be/faqDLkCg1h8
-https://youtu.be/FlP0PLmjIdk
+<div>TANK GO ! Basic Models Assembly 基本款組裝</div>
+<div><a href="https://www.youtube.com/watch?v=faqDLkCg1h8"><img src="https://img.youtube.com/vi/faqDLkCg1h8/0.jpg"></a></div>
+
+<div>TANK GO ! with DFPlayer mini MP3 module Assembly 進階款組裝</div>
+<div><a href="https://www.youtube.com/watch?v=rpaQaJ1GmJE"><img src="https://img.youtube.com/vi/rpaQaJ1GmJE/0.jpg"></a></div>
